@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace JsonCommandHandler.Models
+{
+    internal class GoogleResultJson
+    {
+        internal List<Book> items {get;set;}
+    }
+
+    internal class Book
+    {
+        public string title {get;set;}
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "message-type": "create-folder-with-file-command",
+  "body": {
+    "location": "DOWNLOADS",
+    "directory-name": "command-{newGuid}",
+    "file-name": "my-file",
+    "content": "NUMBER_OF_PROCESSORS"
+  }
+}

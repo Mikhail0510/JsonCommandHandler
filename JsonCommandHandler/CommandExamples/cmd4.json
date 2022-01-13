@@ -1,0 +1,7 @@
+{
+  "message-type": "google-search-command",
+  "body": {
+    "search-criterion": "C# books",
+    "display-links": "FIRST"
+  }
+}
